@@ -1,4 +1,19 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# EventHorizon - A Full Stack NextJS-14 Events App
+
+An event organization web app like **Eventbrite** or Meetup with authentication, event management, search, filtering, categories, checkout, and payments using **Next JS 14, Tailwind CSS, Shadcn, React Hook Form, Zod, Uploadthing, React-Datepicker, Mongoose, Clerk, and Stripe**.
+
+# Table of Contents
+
+- Introduction
+- Tech Stack
+- Features
+- Quick Start
+
+# Tutorial
+
+This repository contains the code corresponding to an in-depth tutorial available on YouTube channel, [JavaScript Mastery](https://www.youtube.com/watch?v=zgGhzuBZOQg).
+
+If you prefer visual learning, this is the perfect resource for you. 
 
 ## Getting Started
 
